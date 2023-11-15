@@ -1,0 +1,10 @@
+/*{
+    background-image: url(/res/img/bekraund.jpg);
+}
+*{
+    background-color: black;
+}*/
+body {
+    margin: 0;
+    overflow: hidden;
+}
